@@ -1,6 +1,6 @@
 cask "subnera" do
-  version "1.0.15"
-  sha256 "be8ed844225e00ac631a2df9ea17e625347682216c81c2a2124d88773bbf0cb2"
+  version "1.0.16"
+  sha256 "7d40554d0f2980178d2b88640ffef28b9b5c4b04687098e9db54c40f5fcae728"
 
   url "https://downloads.subnera.com/releases/#{version}/subnera-#{version}.dmg"
   name "subnera"
